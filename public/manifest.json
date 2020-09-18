@@ -1,0 +1,44 @@
+{
+  "short_name": "Weather Less",
+  "name": "Weather Less",
+  "icons": [
+    {
+      "src": "./favicon/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./favicon/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "android chrome"
+    },
+    {
+      "src": "./favicon/apple-touch-icon.png",
+      "type": "image/png",
+      "purpose": "Apple"
+    },
+    {
+      "src": "./favicon/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16",
+      "purpose": "browser"
+    },
+    {
+      "src": "./favicon/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "purpose": "browser"
+    },
+    {
+      "src": "./favicon/favicon.ico",
+      "type": "image/ico",
+      "purpose": "browser"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
